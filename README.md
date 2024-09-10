@@ -27,7 +27,7 @@ A simple and interactive password generator built with HTML, CSS, and JavaScript
 
 ## Demo
 
-You can try the live demo of the Password Generator [here](#).
+You can try the live demo of the Password Generator [here](https://anish1133.github.io/Pass-generator/).
 
 ## Usage
 
